@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #2c3e50;
+  height: 82px;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: system-ui -apple-system "Segoe UI" Roboto "Helvetica Neue" "Noto Sans"
+    "Liberation Sans" Arial sans-serif "Apple Color Emoji" "Segoe UI Emoji" "Segoe UI Symbol"
+    "Noto Color Emoji";
+  z-index: 999;
+}
+.bg-success-light {
+  background-color: #1abc9c;
+}
+

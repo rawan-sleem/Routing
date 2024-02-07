@@ -1,0 +1,20 @@
+.about {
+  background-color: #1abc9c;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.col-md-6 {
+  padding-inline: 6px;
+}
+.line {
+  height: 4px;
+  width: 80px;
+  background-color: #fff;
+}
+.d-flex {
+  flex-direction: row;
+  justify-content: center;
+}
